@@ -20,3 +20,9 @@ She is the first female to ever graduate in information science from CU Boulder
 
 5. https://twitter.com/tay2263
 Keeps up with relevant news and retweets her beliefs of equality 
+
+
+// #4: Describe what happens when you push your changes at the same time:
+We were able to commit at the same time, but we weren't allowed to push at the same time. Because it was Hannah's document, she was able to push, but I got an error message stating: Authentification failed. You may not have access to the repository or the repository may have been archived. Open preferences and verify that you're signed in with an account that has permission to see to access this repository." 
+
+To fix this issue, you could either branch or fork your repository. This would allow you to both work on it at the same time and then you can finally merge and commit your newly updated project.
