@@ -22,6 +22,9 @@ She is the first female to ever graduate in information science from CU Boulder
 Keeps up with relevant news and retweets her beliefs of equality 
 
 
+PART 2: 
+Worked with Hannah Weber
+
 //Describe what happens when you push your changes at the same time:
 We were able to commit at the same time, but we weren't allowed to push at the same time. The error message said: "The repository has been last updated since you've pulled. Try pulling before pushing." Essentially merge errors were created when we tried to push at the same time. 
  
