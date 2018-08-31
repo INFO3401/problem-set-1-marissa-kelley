@@ -22,7 +22,12 @@ She is the first female to ever graduate in information science from CU Boulder
 Keeps up with relevant news and retweets her beliefs of equality 
 
 
-// #4: Describe what happens when you push your changes at the same time:
-We were able to commit at the same time, but we weren't allowed to push at the same time. Because it was Hannah's document, she was able to push, but I got an error message stating: Authentification failed. You may not have access to the repository or the repository may have been archived. Open preferences and verify that you're signed in with an account that has permission to see to access this repository." 
+//Describe what happens when you push your changes at the same time:
+We were able to commit at the same time, but we weren't allowed to push at the same time. The error message said: "The repository has been last updated since you've pulled. Try pulling before pushing." Essentially merge errors were created when we tried to push at the same time. 
+ 
 
-To fix this issue, you could either branch or fork your repository. This would allow you to both work on it at the same time and then you can finally merge and commit your newly updated project.
+// 5. Now, work together to fix any issues that arise in your pushes such that both sets of changes make it into the file. How did you resolve these issues?
+
+One way to resolve this is by not pushing at the same time. However if that isn't possible, you could either branch or fork your repository. This would allow you to both work on it at the same time and then you can finally merge and commit your newly updated project.
+
+// 6. What strategies might you use when architecting and managing a collaborative project that may help you make the best use of version control? Name at least three and discuss why you think they'll be helpful.
