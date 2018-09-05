@@ -3,6 +3,7 @@ Marissa Kelley
 INFO 3401
 Due: September 2, 2018
 
+//Part 1: 
 Person: Taylor Lawrence
 
 Sources and Facts: 
@@ -21,8 +22,16 @@ She is the first female to ever graduate in information science from CU Boulder
 5. https://twitter.com/tay2263
 Keeps up with relevant news and retweets her beliefs of equality 
 
+//Part 2: Version control is an important tool for any major project. Describe three scenarios in which using version control would help you manage a project. For each scenario, be sure to describe the situation, note the issues not using version control would cause, and how you would use version control to avoid the issue.
 
-PART 2: 
+Scenario 1: Version control allows everyone in a group project to work on any file at any time. This is extremely helpful if you are doing a multi-part group project or a multi-documented project. Version control makes it incredibly easy to find everything that everyone has done 
+
+Scenario 2: Verison control is also really helpful if you want multiple versions of a project to be saved. The version control saves all of the versions of the project/document which helps show what changes have been made. If you want to go to another version of the project, it's really simple to access it via the version control. 
+
+Scenario 3: Another scenario where version control is helpful is when you need to work on something individually, but collaborate later on. Because everything is in one place, it makes group projects/online collaboration easier if not everyone can be there at the same time. Without version control, people would have to work at the same place (and at the same time) which isn't always feasible. 
+
+
+PART 4 and 5:  
 Worked with Hannah Weber
 
 //Describe what happens when you push your changes at the same time:
@@ -34,3 +43,7 @@ We were able to commit at the same time, but we weren't allowed to push at the s
 One way to resolve this is by not pushing at the same time. However if that isn't possible, you could either branch or fork your repository. This would allow you to both work on it at the same time and then you can finally merge and commit your newly updated project.
 
 // 6. What strategies might you use when architecting and managing a collaborative project that may help you make the best use of version control? Name at least three and discuss why you think they'll be helpful.
+
+Strategy 1: One strategy is to utilize the readme and summary updates to their full use. This would benefit everyone by showing what you've worked on/clearly summarizing what changes you've made 
+Strategy 2: Another strategy to use when working on a collaborative project is to fork documents and then remerge them (at the end or whenever you feel is necessary). This feature is helpful if you have two different ways of working on the same problem. By forking, you and another person can both track your own work but also not waste time getting confused with multiple versions of the same document. It's also helpful so that you have a record of both methods of working a problem. 
+Strategy 3: A final strategy that would be helpful with collaborative projects is the option of making it more collaborative. Using version control would allow you to make your project more collaborative and open to further revision and ideas from others outside of your group. The use of the readme also helps explain your thought-process or approach to the problem/project. 
